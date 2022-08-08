@@ -22,8 +22,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **21 Juni 2021**  
 Libur
 
-**22 Juni 2021** 
+**22 Juni 2021**  
 Libur
 
-**23 Juni 2021** 
+**23 Juni 2021**  
 Libur
